@@ -1,4 +1,4 @@
-package exercio04;
+package entradaSaida;
 
 import java.util.Scanner;
 

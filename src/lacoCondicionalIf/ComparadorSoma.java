@@ -31,6 +31,8 @@ public class ComparadorSoma {
 		else {
 			System.out.println("A Soma de A + B é Igual a C");
 		}
+		
+		scanner.close();
 
 
 	}

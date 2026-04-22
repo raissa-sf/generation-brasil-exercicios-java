@@ -26,6 +26,9 @@ public class ClassificadorNumerico {
 		} else {
 			System.out.println("O Número "+ numero + " é impar e positivo!");
 		}
+		
+		scanner.close();
 	}
+	
 
 }

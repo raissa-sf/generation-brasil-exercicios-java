@@ -1,0 +1,65 @@
+[33mcommit 3a0a57b3cbf98af01375454dc8447a8b06e4773e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mloops[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/control-flow[m[33m, [m[1;32mmain[m[33m, [m[1;32mcontrol-flow[m[33m)[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 14:47:13 2026 -0300
+
+    feat: resolve exercicio simulação de caixa eletrônico usando switch case
+
+[33mcommit 31d68de0db4924a7ad59783cb422dbc0226152d4[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 14:25:00 2026 -0300
+
+    feat: resolve exercicio calculo operações matemáticas usando switch case
+
+[33mcommit b24ad936735d39f65c65364b92fdef9aa2c28672[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 14:11:56 2026 -0300
+
+    feat: resolve exercicio reajuste salarial usando switch case
+
+[33mcommit ce0f308d2671f8278ca6e6cbd8e243975fbe331e[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 13:49:56 2026 -0300
+
+    feat: resolve exercicio menu de lanchonete usando switch case
+
+[33mcommit f5e832784963b99d43bb0cfc662cb7abee2f52e4[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 13:24:54 2026 -0300
+
+    feat: resolve exercicio de taxonomia animal
+
+[33mcommit f85452bd028f12322b6195349abab271f4781b0f[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 12:13:11 2026 -0300
+
+    fix: fechando o scanner dos exercicios: ComparadorSoma e ControleDoacao
+
+[33mcommit c14e21283025e344740fe283b5548c9da39ad1df[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 12:04:26 2026 -0300
+
+    feat: resolve exercicio de classificação se pode ou não doar sangue
+
+[33mcommit 708eb3e808bc60f7a0e68d37abbeb1e96933609b[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 11:38:37 2026 -0300
+
+    feat: resolve exercicio de classificação impar/par e positivo/negativo
+
+[33mcommit 6cf4551c2029dbbda94c49f94b15dc29f4b53d83[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 11:29:29 2026 -0300
+
+    feat: resolve exercicio de soma A+B
+
+[33mcommit 59297c0b4f896430d0c654ac9b2f6e4a547ebc61[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Wed Apr 22 11:13:04 2026 -0300
+
+    Reestruturando os arquivos e pacotes
+
+[33mcommit 316fe03a17dd444abd1b3e04e639b672865530fa[m
+Author: Raissa <raissa.feitosa06@gmail.com>
+Date:   Fri Apr 17 15:28:39 2026 -0300
+
+    Resolução dos 4 primeiros exercícios de Java

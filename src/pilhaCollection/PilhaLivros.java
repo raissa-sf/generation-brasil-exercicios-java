@@ -11,7 +11,6 @@ public class PilhaLivros {
 		Deque<String> pilhaLivro = new ArrayDeque<>();
 		Scanner scanner = new Scanner(System.in);
 		int codigo;
-		String clienteNome;
 
 		System.out.println("======================================================");
 		System.out.println("                SISTEMA BIBLIOTECA                    ");
